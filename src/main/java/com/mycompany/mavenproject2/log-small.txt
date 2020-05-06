@@ -1,0 +1,50 @@
+user difosoz (107.48.249.14) joined #java
+session for chunk 454789 has not been finalized by bolexan@aur.com
+credential for jobuko@lhvh.janrud.com revoked at 05:40
+invalid session cookie XKXWQNQV given by user "mixo"
+warning: authentication failure for <xateqo@lrwy.covqd.qmlp.com>
+credential for ciyuxo@fqha.rrhm.sloiv.com revoked at 17:38
+credential for vevujo@lsrgqn.com revoked at 15:52
+[13:22:00]: user wuyisub got auth token ZH289 accepted
+user wic (42.8.231.7) joined #java
+invalid session cookie IDZTFLJCF given by user "luhi"
+invalid session cookie WKPPDAJMKNZ given by user "lalu"
+19:27 / 127.0.0.1 - user boga got banned from #crypto
+user vowezu (114.15.202.164) joined #crypto
+session for chunk 62640 has not been finalized by gecid@jxfns.com
+invalid session cookie ARBSGSOFY given by user "vaqepaj"
+session for chunk 621137 has not been finalized by taqi@aktmja.gkzs.kngi.com
+connection to 176.248.120.33 timed out on interface 12:45:56:8A:8B:AA
+connection to 120.250.69.53 timed out on interface A1:D2:C4:4A:3C:27
+connection to 186.151.58.234 timed out on interface 83:19:00:2D:31:67
+session for chunk 170890 has not been finalized by sek@nmz.com
+credential for dih@itgtb.numz.roqib.com revoked at 00:23
+access was denied for cache file kmnqfrfhhafkfeqqlqvr.dat on 05:57:28 by 186.181.185.228
+user sukolo (181.232.236.179) joined #anonymous
+warning: authentication failure for <teneyi@jzwqr.jxgpql.com>
+connection to 4.97.54.30 timed out on interface 18:73:48:76:1D:11
+[11:11:15]: user dad got auth token AB054 accepted
+user hubo (22.126.77.18) joined #games
+[19:40:47]: user mit got auth token AJ789 accepted
+credential for qugok@daoze.com revoked at 16:37
+session for chunk 511574 has not been finalized by nenilur@wre.ibe.fdou.com
+user difosoz (107.48.249.14) joined #java
+18:34 / 189.242.33.6 - user luketu got banned from #java
+warning: authentication failure for <qekevo@vyc.ysbj.ipt.com>
+session for chunk 749819 has not been finalized by qusepa@pgiv.com
+session for chunk 817811 has not been finalized by ruqup@shkvai.wkrs.wug.com
+invalid session cookie DCPUPCLZCN given by user "biro"
+connection to 127.0.0.1 timed out on interface 1C:A8:71:90:23:16
+session for chunk 306777 has not been finalized by lecinig@oqmutv.tzq.com
+invalid session cookie UXWHJNIQJRK given by user "run"
+credential for yuzeci@vltwi.asbval.com revoked at 08:40
+credential for dih@itgtb.numz.roqib.com revoked at 00:23
+access was denied for cache file kmnqfrfhhafkfeqqlqvr.dat on 05:57:28 by 186.181.185.228
+09:06 / 245.79.46.34 - user qum got banned from #java
+credential for vupi@iga.com revoked at 20:51
+invalid session cookie IGFJJUXLCTKVMQ given by user "heti"
+connection to 153.3.149.159 timed out on interface 6D:D9:DE:57:98:12
+credential for zivuzo@evgcn.uuoi.lnxs.com revoked at 10:40
+warning: authentication failure for <nace@dkfj.ablwcj.com>
+[00:20:18]: user goyam got auth token TG742 accepted
+invalid session cookie TFKSALBOFLZ given by user "mufoj"
