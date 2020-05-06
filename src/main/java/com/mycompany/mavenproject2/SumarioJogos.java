@@ -14,10 +14,17 @@ import java.util.TreeMap;
  */
 public class SumarioJogos {
 
+    private static class Info {
+
+        public int reviwes;
+        public int scorePhrases;
+        public int scores;
+        
+    }
+
     public static void main(String[] args) {
 
-        Map<String, Integer> mapCont = new TreeMap<String, Integer>();
-        Map<String, Integer> mapScorePhrase = new TreeMap<String, Integer>();
+        Map<String, Info> map = new TreeMap<String, Info>();
 
         SimpleReader file = new SimpleReader("C:\\Users\\roger\\Documents\\NetBeansProjects\\mavenproject2\\src\\main\\java\\com\\mycompany\\mavenproject2\\game-reviews.csv");
 
@@ -26,24 +33,22 @@ public class SumarioJogos {
 
         while (line != null) {
             String[] col = line.split(";");
+            String scorePhrase = col[2];
+            Double score = Double.parseDouble(col[3]);
             String year = col[6];
-            
-            
-            if (!mapCont.containsKey(year)) { // contagem
-                mapCont.put(year, 1);
+
+            if (!map.containsKey(year)) { // contagem
+                map.put(year, 1);
             } else {
-                mapCont.put(year, mapCont.get(year) + 1);
+                map.put(year, map.get(year) + 1);
             }
-            
-            
 
             line = file.readLine();
         }
         file.close();
-        
-        
-        for (String w : mapCont.keySet()) {
-            System.out.println(w + ": " + mapCont.get(w));
+
+        for (String w : map.keySet()) {
+            System.out.println(w + ": " + map.get(w));
         }
     }
 }
